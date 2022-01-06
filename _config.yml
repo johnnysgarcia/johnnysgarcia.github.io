@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# Site Settings
+
+title:  Johnny's Portfolio
+author:  
+  name: Johnny Garcia
+  email: johnnyg2015@gmail.com
+description: "this is my first portfolio"
+
+# Build Settings
+
+remote_theme:  jekyll/minima 
